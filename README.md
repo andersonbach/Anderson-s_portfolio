@@ -9,6 +9,7 @@ Analytics Portfolio
 This project is....
 objetivo
 posso por imagens e etc
+<img width="851" height="591" alt="gr" src="https://github.com/user-attachments/assets/6d303dab-152c-4ae3-9e06-4f5baba4cb50" />
 
 # Table of Contents
 
